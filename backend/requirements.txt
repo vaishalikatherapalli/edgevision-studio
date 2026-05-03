@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+passlib
+bcrypt==4.0.1
+onnxruntime
+pillow
+python-multipart
+ultralytics
+pydantic-settings
